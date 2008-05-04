@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="jaf/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="javamail/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/filterbuilder.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/htmllexer.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/htmlparser.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/sax2.jar"/>
+	<classpathentry exported="true" kind="lib" path="htmlparser/thumbelina.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="mockjavamail/mock-javamail-1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
