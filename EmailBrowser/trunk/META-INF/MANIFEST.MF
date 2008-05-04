@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./3rdPartyLibs/javamail/mail.jar ./3rdPartyLibs/jaf/activation.jar ./3rdPartyLibs/htmlparser/filterbuilder.jar ./3rdPartyLibs/htmlparser/htmllexer.jar	./3rdPartyLibs/htmlparser/htmlparser.jar ./3rdPartyLibs/htmlparser/sax2.jar ./3rdPartyLibs/htmlparser/thumbelina.jar
+Main-Class: SystemTrayEWB.SysTrayEWB
+

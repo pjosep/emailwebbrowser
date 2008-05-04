@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_03" class="java.beans.XMLDecoder"> 
+ <object class="configurationManager.ConfigurationRepository"> 
+  <void property="emailSubject"> 
+   <string>foo</string> 
+  </void> 
+  <void property="frequency"> 
+   <string>10.0</string> 
+  </void> 
+  <void property="password"> 
+   <string>bar</string> 
+  </void> 
+  <void property="username"> 
+   <string>foo</string> 
+  </void> 
+ </object> 
+</java> 

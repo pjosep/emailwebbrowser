@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="makejar" name="makejar">
+	<target name ="makejar" description="Create a jar for the EmailBrowser project">
+		<mkdir dir="./FinalOutput/"/>
+		<jar jarfile="./FinalOutput/EmailWebBrowser.jar" manifest="META-INF/MANIFEST.MF" includes="**/*.class **/*.png"  basedir="./bin/">
+		</jar>
+	</target>
+</project>	
