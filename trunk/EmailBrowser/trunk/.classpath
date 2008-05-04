@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.junit4_4.3.1/junit.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/htmllexer.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/htmlparser.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/junit.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/sax2.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/htmlparser/thumbelina.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/jaf/activation.jar"/>
+	<classpathentry kind="lib" path="/3rdPartyLibs/javamail/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

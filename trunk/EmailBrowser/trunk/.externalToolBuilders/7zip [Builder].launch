@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramBuilderLaunchConfigurationType">
+<booleanAttribute key="org.eclipse.debug.core.appendEnvironmentVariables" value="true"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:/Tools/7zip}/7z.exe"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_RUN_BUILD_KINDS" value="full,incremental,"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="a -r -sfx7z.sfx ./FinalOutput/emailWebBrowserInstall.exe ./FinalOutput/*.jar ./InstallationFiles/EmailWebBrowser.bat ./InstallationFiles/*.txt ./**/*.bat &quot;${workspace_loc}/**/*.jar&quot; &quot;${workspace_loc}/**/*.txt&quot; -xr!&quot;${workspace_loc}/**/mock-javamail-1.6.jar&quot; -xr!&quot;${workspace_loc}/**/EmailWebBrowser.jar&quot; -xr!./**/EmailWebBrowser.bat -xr!&quot;${workspace_loc}/**/InstallationFiles/*.txt&quot; -x!&quot;${workspace_loc}/.metadata*/**/**/*.txt&quot; -x!&quot;${workspace_loc}/.metadata*/**/*.txt&quot; -x!&quot;${workspace_loc}/.metadata*/*.txt&quot;"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_TRIGGERS_CONFIGURED" value="true"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:/EmailBrowser}"/>
+</launchConfiguration>

@@ -1,0 +1,32 @@
+
+Introduction
+
+  The EmailWebBrowser is an application that allows a user on a remote PC to
+  request and then receive a web page through email.  The EmailWebBrowser allows a
+  user on a Censored Network to access a website that she is normally blocked from
+  viewing.  Censored networks can range from company intranets to a country's
+  censored network.  The EmailWebBrowser application runs on Java 6.0.  The user
+  can use any email client, however only the Opera Mail Client (minimum version
+  9.27) supports all existing features.
+
+
+Building the Code
+
+  Import the "Release 1.0" tag, from the 3rdPartyLibs, EmailBrowser, and Tools
+  projects from SVN.
+
+  NOTE:  Once everything is imported, you may need to perform a full clean
+  (sometimes the projects don't link properly upon initial checkout).
+
+
+Running the Code
+
+  In EmailBrowser\src\SystemTrayEWB\, right-click on SysTrayEWB and select "Run
+  As->Java Application".
+
+
+Building an Installation File
+
+  Select the EmailBrowser Project and select menu: Project->Build Project
+  Installation file will be located in the EmailBrowser\FinalOuput.
+
