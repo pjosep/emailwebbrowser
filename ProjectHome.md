@@ -1,0 +1,1 @@
+The EmailWebBrowser allows users to request and receive web pages through email, even those that would be normally blocked by the user's network.
